@@ -2,8 +2,8 @@
 title: Vendors
 description: A list of stores that sell 40s keyboard kits and/or accessories
 published: true
-date: 2021-01-17T22:31:34.546Z
-tags: 
+date: 2021-01-17T22:37:04.049Z
+tags: faq
 editor: markdown
 dateCreated: 2021-01-17T22:18:54.622Z
 ---
