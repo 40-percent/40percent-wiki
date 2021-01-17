@@ -2,7 +2,7 @@
 title: Keyboard Template
 description: Use this template for new keyboard pages
 published: false
-date: 2021-01-17T23:17:49.032Z
+date: 2021-01-17T23:26:43.424Z
 tags: templates
 editor: markdown
 dateCreated: 2021-01-17T23:17:49.032Z
@@ -11,7 +11,7 @@ dateCreated: 2021-01-17T23:17:49.032Z
 # Board Name
 Brief 1-paragraph board description. Include items like, other names of the board, who created it, high-level description of the form factor, other significant details that make the board unique.
 
-![A captioned image in the heading is awesome](/d9382c16-a9a7-4ae4-a5bc-294e577e275a.jpeg =200x)
+![A captioned image in the heading is awesome, use the right-caret to right align like this >](/d9382c16-a9a7-4ae4-a5bc-294e577e275a.jpeg =200x)
 
 Please remember to add citations with footnote[^1] tags as this helps to keep the info in the wiki objective and make the sources of information clear. Prefer internal links to other wiki pages if possible, except in the [Availability](#Availability) section or if providing links to specific, relevant, reputable resources (such as the maintainer's open source repo on GitHub).
 
