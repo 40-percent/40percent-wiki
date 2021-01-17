@@ -2,7 +2,7 @@
 title: Keyboard Template
 description: Use this template for new keyboard pages
 published: false
-date: 2021-01-17T23:26:43.424Z
+date: 2021-01-17T23:31:18.605Z
 tags: templates
 editor: markdown
 dateCreated: 2021-01-17T23:17:49.032Z
@@ -13,7 +13,7 @@ Brief 1-paragraph board description. Include items like, other names of the boar
 
 ![A captioned image in the heading is awesome, use the right-caret to right align like this >](/d9382c16-a9a7-4ae4-a5bc-294e577e275a.jpeg =200x)
 
-Please remember to add citations with footnote[^1] tags as this helps to keep the info in the wiki objective and make the sources of information clear. Prefer internal links to other wiki pages if possible, except in the [Availability](#Availability) section or if providing links to specific, relevant, reputable resources (such as the maintainer's open source repo on GitHub).
+Please remember to add citations with footnote[^1] tags as this helps to keep the info in the wiki objective and make the sources of information clear. Prefer internal links to other wiki pages if possible, except in the [Availability](#availability) section or if providing links to specific, relevant, reputable resources (such as the maintainer's open source repo on GitHub).
 
 Most of the sections are optional, just as suggestions for content that might be useful. Feel free to add more sections if you think they would be appropriate.
 
