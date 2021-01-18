@@ -2,7 +2,7 @@
 title: Le Chiffre
 description: 
 published: true
-date: 2021-01-18T23:22:21.654Z
+date: 2021-01-18T23:25:37.448Z
 tags: column stagger, rgb, unibody split, group buy, 10u, intergrated, open source
 editor: markdown
 dateCreated: 2021-01-18T22:52:02.649Z
@@ -16,7 +16,7 @@ Le Chiffre is a 30% columnar stagger board designed by tominabox1. It is a unibo
 
 ## Overview
 
-A KLE of the Le Chiffre is available [here]()
+A KLE of the Le Chiffre is available [here](http://www.keyboard-layout-editor.com/#/gists/e44d1c29ae57ab7efbe544ebda2f427c). You can optionally install an OLED in the middle, and the middle key can be replaced with a rotary encoder. You can also choose not to install anything in the middle, and leave it plain. a
 
 ## Availability
 
