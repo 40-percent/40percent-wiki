@@ -2,7 +2,7 @@
 title: Ferris
 description: 
 published: true
-date: 2021-01-18T04:43:00.195Z
+date: 2021-01-18T09:40:19.802Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-18T04:43:00.195Z
@@ -18,7 +18,7 @@ Ferris is a 34 key split keyboard, named after the Rustlang mascott, created by 
 
 ### Availability
 
-The PCB Is open sourced with all files available on [github](https://github.com/pierrechevalier83/ferris).
+The PCB is open sourced with all files available on [github](https://github.com/pierrechevalier83/ferris).
 
 ### Types
 
