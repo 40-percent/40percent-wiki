@@ -2,38 +2,35 @@
 title: Le Chiffre
 description: 
 published: true
-date: 2021-01-18T22:56:25.918Z
+date: 2021-01-18T23:22:21.654Z
 tags: column stagger, rgb, unibody split, group buy, 10u, intergrated, open source
 editor: markdown
 dateCreated: 2021-01-18T22:52:02.649Z
 ---
 
 # Le Chiffre
-Brief 1-paragraph board description. Include items like, other names of the board, who created it, high-level description of the form factor, other significant details that make the board unique.
 
 Le Chiffre is a 30% columnar stagger board designed by tominabox1. It is a unibody split design, and open sourced including all KiCad files. 
 
-![A captioned image in the heading is awesome, use the right-caret to right align like this >](/d9382c16-a9a7-4ae4-a5bc-294e577e275a.jpeg =200x)
+![sickbabies' Le Chiffre, featuring GMK space cadet, and a beige 3DPrinted case from P3D storel >](/68402ead-27ea-4ad1-a827-cb323f5df6c4.webp =200x)
 
-Please remember to add citations with footnote[^1] tags as this helps to keep the info in the wiki objective and make the sources of information clear. Prefer internal links to other wiki pages if possible, except in the [Availability](#availability) section or if providing links to specific, relevant, reputable resources (such as the maintainer's open source repo on GitHub).
+## Overview
 
-Most of the sections are optional, just as suggestions for content that might be useful. Feel free to add more sections if you think they would be appropriate.
-
-## Overview (or History depending on context)
-An image of the available layouts is useful. An external link to the KLE is acceptable here. Explain more about the project. If there are open-source resources, link them here as well.
-
-Who came up with the idea, and when was it? What were the influences or inspirations? Who made the project? What format was it? When was the GB or IC run, what format, which vendors? Were there multiple versions or iterations of the project? You can include those as third-level sections like this:
-
-### Private Buys
-There was a small group buy run by Taco, which enabled a select few to get the board. dezli also had 5 produced by JLCPCB and sold the extras. These buys are enabled by the open source files which are provided 
-
-### Round 2
-Round 2 was a Vickrey auction and a blatant cash grab. The maker took over 3 years to deliver, everything was scuffed[^2].
+A KLE of the Le Chiffre is available [here]()
 
 ## Availability
-If the IC or GB is running, include that info here. You can include external links to the vendor pages here. Try to avoid including external links in the rest of the content, using citations or links to other wiki pages if they exist instead.
+
+### Open Source
+
+The PCB and case files open sourced under the GNU GPL v3 license. The Github repository is [here](https://github.com/tominabox1/Le-Chiffre-Keyboard). 
+
+### Private Buys
+
+There was a small group buy run by Taco, which enabled a select few to get the board. dezli also had 5 produced by JLCPCB and sold the extras. These buys are enabled by the open source files. 
+
+### P3D Store Groupbuy[^1]
+
+P3D Store ran a group buy from December 21st 2020 until January first 2021. Alongside the P3D group buy, 3D printed PLA cases and lasercut acrylic cases were offered. The group
 
 ## Citations:
-[^1]: You can use [Wayback machine](https://web.archive.org/save) to make sure sources for citations don't disappear.
-
-[^2]: If you include stuff like this be absolutely sure to back it up with a citation.
+[^1]: The [P3D](http://web.archive.org/web/20210118231743/https://p3dstore.com/products/le-chiffre-group-buy) listing is available via the wayback machine.
