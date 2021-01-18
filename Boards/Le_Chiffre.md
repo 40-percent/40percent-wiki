@@ -2,7 +2,7 @@
 title: Le Chiffre
 description: 
 published: true
-date: 2021-01-18T23:49:11.212Z
+date: 2021-01-18T23:58:57.782Z
 tags: column stagger, rgb, unibody split, group buy, 10u, intergrated, open source
 editor: markdown
 dateCreated: 2021-01-18T22:52:02.649Z
@@ -30,7 +30,7 @@ There was a small group buy run by Taco, which enabled a select few to get the b
 
 ### P3D Store Groupbuy[^1]
 
-P3D Store ran a group buy from December 21st 2020 until January first 2021. Alongside the P3D group buy, 3D printed PLA cases and lasercut acrylic cases were offered. The group
+P3D Store ran a group buy from December 21st 2020 until January first 2021. Alongside the P3D group buy, 3D printed PLA cases and lasercut acrylic cases were offered, and extras such aa a knob and OLED. The group buy, as of writing, is incomplete.
 
 ## Citations:
 [^1]: The [P3D](http://web.archive.org/web/20210118231743/https://p3dstore.com/products/le-chiffre-group-buy) listing is available via the wayback machine.
