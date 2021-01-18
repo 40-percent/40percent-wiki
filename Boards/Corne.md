@@ -2,7 +2,7 @@
 title: Corne
 description: Corne Keybaord
 published: true
-date: 2021-01-18T04:35:40.444Z
+date: 2021-01-18T04:37:24.005Z
 tags: split, column stagger
 editor: markdown
 dateCreated: 2021-01-18T04:35:40.444Z
@@ -11,7 +11,7 @@ dateCreated: 2021-01-18T04:35:40.444Z
 # Corne
 The Corne keyboard (also known as Crkbd) is a split keyboard with 3x6 column staggered keys and 3 thumb keys, based on Helix. This keyboard was created by Foostan and is open-source.
 
-![corne.jpg>](/corne.jpg)
+![corne.jpg](/corne.jpg){.align-abstopright}
 
 ## Overview
 There are a variety of Corne keyboards available:
