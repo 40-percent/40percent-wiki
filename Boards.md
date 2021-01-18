@@ -2,7 +2,7 @@
 title: Le Chiffre
 description: 
 published: true
-date: 2021-01-18T22:54:28.978Z
+date: 2021-01-18T22:56:25.918Z
 tags: column stagger, rgb, unibody split, group buy, 10u, intergrated, open source
 editor: markdown
 dateCreated: 2021-01-18T22:52:02.649Z
@@ -25,7 +25,8 @@ An image of the available layouts is useful. An external link to the KLE is acce
 Who came up with the idea, and when was it? What were the influences or inspirations? Who made the project? What format was it? When was the GB or IC run, what format, which vendors? Were there multiple versions or iterations of the project? You can include those as third-level sections like this:
 
 ### Private Buys
-There was a small group buy run by Taco, which enabled a select few to get the board. dezli also had 5 produced by JLCPCB and sold the extras.
+There was a small group buy run by Taco, which enabled a select few to get the board. dezli also had 5 produced by JLCPCB and sold the extras. These buys are enabled by the open source files which are provided 
+
 ### Round 2
 Round 2 was a Vickrey auction and a blatant cash grab. The maker took over 3 years to deliver, everything was scuffed[^2].
 
