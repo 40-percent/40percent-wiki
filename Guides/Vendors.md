@@ -2,7 +2,7 @@
 title: Vendors
 description: A list of stores that sell 40s keyboard kits and/or accessories
 published: true
-date: 2021-01-17T22:37:04.049Z
+date: 2021-03-29T20:18:54.736Z
 tags: faq
 editor: markdown
 dateCreated: 2021-01-17T22:18:54.622Z
@@ -19,6 +19,7 @@ dateCreated: 2021-01-17T22:18:54.622Z
 - [MKUltra](https://mkultra.click/)
 - [P3D Store](https://p3dstore.com/)
 - [PrimeKB](https://www.primekb.com/)
+- [rainkeebs](https://rainkeebs.mx/)
 - [RGBKB](https://www.rgbkb.net/)
 - [Trash Man](https://trashman.club/)
 - [Worldspawn](https://www.etsy.com/shop/WorldspawnsKeebs)
