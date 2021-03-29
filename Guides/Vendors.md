@@ -2,7 +2,7 @@
 title: Vendors
 description: A list of stores that sell 40s keyboard kits and/or accessories
 published: true
-date: 2021-03-29T20:21:13.680Z
+date: 2021-03-29T20:22:02.703Z
 tags: faq
 editor: markdown
 dateCreated: 2021-01-17T22:18:54.622Z
@@ -12,6 +12,7 @@ dateCreated: 2021-01-17T22:18:54.622Z
 
 - [Boardsource](https://boardsource.xyz/store)
 - [Coffee Break Keyboards](https://www.cbkbd.com/)
+- [Divinikey](https://divinikey.com/)
 - [g Heavy Industries](https://www.gboards.ca/)
 - [Keebio](https://keeb.io/)
 - [Keyhive](https://keyhive.xyz/)
