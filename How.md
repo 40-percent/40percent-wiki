@@ -22,6 +22,6 @@ While it may seem like 40% keyboards lack functionality (_how do you type number
 
 And more
 
-To have access to these features, a lot of 40% keyboards use [Vial](https://get.vial.today/)-compatible firmware. Vial is a graphical interface for a lot of QMK features that allows you to set up those mechanics to match your needs.
+To have access to these features, a lot of 40% keyboards use [Vial-compatible firmware](https://github.com/vial-kb/vial-qmk). [Vial](https://get.vial.today/) is a graphical interface for a lot of QMK features that allows you to set up those mechanics to match your needs.
 
 This might seem rather complicated, and there indeed is a learning curve. Finding a *perfect* keymap for your needs is an iterative process which may take a lot of time. You can find examples of 40% keymaps in \#keymaps channel of [40% Keyboards](https://discord.gg/40percent) Discord server or on the [KeymapDB](https://keymapdb.com/) website.
