@@ -10,7 +10,7 @@ dateCreated: 2023-02-09T00:04:00.000Z
 
 # Why
 
-On a full-size keyboard, reaching for less frequent keys involves moving your hands or stretching your fingers to hit small distant targets and then reorienting back home to press the more frequent keys. That reaching is slow and can lead to hand issues; it also takes up space that might be short in a cafe, plane, classroom or backpack.
+On a full-size keyboard, reaching for less frequent keys involves moving your hands or stretching your fingers to hit small distant targets and then reorienting back home to press the more frequent keys. That reaching is slow and can lead to hand issues; it also takes up space that might be short in a cafe, plane, classroom or bag.
 
 A 40% keyboard uses layer shift keys to move the less frequent keys into a layer under your fingers, just like many laptops use Fn and the number row to create a virtual function layer. A simple setup has two layer keys beside a smaller space bar. One gives a layer with arrows, editing, numbers and fn keys; the other with symbols. Many variations are possible, including more navigation options on a dedicated nav/edit layer (very handy) or leader keys that output text snippets from short prefixes.
 
