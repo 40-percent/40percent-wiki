@@ -1,9 +1,9 @@
 ---
 title: Corne
-description: Corne Keybaord
+description: A split keyboard with 3x6 (or 3x5) column staggered keys and 3 thumb keys.
 published: true
 date: 2021-01-18T17:31:03.000Z
-tags: split, column stagger
+tags: split, column stagger, pro micro, 12u, 10u
 editor: markdown
 dateCreated: 2021-01-18T04:35:40.444Z
 ---

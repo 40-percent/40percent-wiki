@@ -1,22 +1,22 @@
 ---
 title: Kyria
-description: Use this template for new keyboard pages
+description: A split keyboard.
 published: true
 date: 2021-01-18T04:47:30.185Z
-tags: 
+tags: split, closed source, 12u, 10u
 editor: markdown
 dateCreated: 2021-01-18T04:47:30.185Z
 ---
 
 # Kyria
 
-Kyria is a split keyboard designed by Thomas Baart. 
+Kyria is a split keyboard designed by Thomas Baart. What sets it apart are its aggressive yet comfortable columnar stagger, its number of thumb keys that allow you to place many utilities at a thumb's reach, and its many encoder position options.
 
 ![kyria.png](/kyria.png){.align-right}
 
 ### Availability
 
-The Kyria is closed source, and available at [splitkb.com](https://splitkb.com/collections/keyboard-kits/products/kyria-pcb-kit) and [Little Keyboards](https://www.littlekeyboards.com/products/kyria-pcb-kit?_pos=10&_sid=0ff2769c2&_ss=r).
+The Kyria is closed source, and available at [splitkb.com](https://splitkb.com/products/kyria-rev3-pcb-kit).
 
 ### Layout
 
