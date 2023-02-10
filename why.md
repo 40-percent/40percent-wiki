@@ -16,6 +16,6 @@ A 40% keyboard uses layer shift keys to move the less frequent keys into a layer
 
 People differ in how few keys they want. A width of 12 to 13 keys provides the letters plus "normal" locations for delete, return, shift, tab and esc. A bottom row of thumb keys for layers and mods plusk some side utility keys for arrows or extras is an easy start. Having fewer keys becomes a tradeoff between more complex layering vs. less reaching with the pinkies or thumbs. Personal preferences vary between row stagger, ortho-linear, and ergo/column stager and between unibody or split.
 
-There are use cases where a function row is very handy, such as heavy graphical tool use with many function and modifier key combinations. But for general typing, including programming, moving the keys to the fingers instead of the fingers to the keys can be an advantage. Many people in the small keyboard groups are developers, we spend much of our time typing and hand ergonomics is an issue.
+There are use cases where a function row is very handy, such as heavy graphical tool use with many function and modifier key combinations, or a number row for gaming. But for general typing, including programming, moving the keys to the fingers instead of the fingers to the keys can be an advantage. Many people in the small keyboard groups are developers, we spend much of our time typing and hand ergonomics is an issue.
 
 The [KeymapDB](https://keymapdb.com/) shows how many have customized their boards to suit their needs.
