@@ -44,4 +44,4 @@ Finding a *perfect* keymap for your needs is an iterative process which may take
 ## Example keymaps
 
 ### QAZ
-![QAZ Keymap.png](QAZ Keymap.png){.align-right}
+![QAZ Keymap.png](/QAZ Keymap.png){.align-right}
