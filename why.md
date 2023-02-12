@@ -20,4 +20,10 @@ People differ in how few keys they prefer. An easy start is a width of 12 to 13 
 
 Many in the small keyboard groups are programmers. We are often typing or editing and care about efficiency and hand ergonomics. There are keyboard uses where a function or number row is very handy, such as for graphical tool use with heavy function and modifier combinations or gaming. But for general typing, including programming, moving the keys to the fingers instead of the fingers to the keys has advantages.
 
-The [KeymapDB](https://keymapdb.com/) shows layouts for different preferences and needs, including for different keyboard sizes and shapes. Below are a few layouts to give a general feel.
+
+## Example keymap
+
+Holding either of two thumb layer keys gives access to the two additional layers of the  Hillside keyboard. Physical arrow keys offer familiar navigation, while more complete controls are under the fingers on the nav/edit layer. Further examples, for different sizes, shapes, preferences and needs, are at [KeymapDB](https://keymapdb.com/).
+
+
+![image/hillside_keymap.png](/image/hillside_keymap.png){.align-right}
