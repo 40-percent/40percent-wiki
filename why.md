@@ -22,7 +22,7 @@ Many small keyboard users are programmers. We are often typing or editing and ca
 
 ## Example keymap
 
-Two thumb layer keys give access to the Hillside keyboard's two additional layers when held. Physical arrow keys offer a familiar navigation option, with more complete navigation and editing on the home row of the nav/edit layer.
+The larger 40% keymaps are often simpler to understand and can retain familiar base layer arrow and modifier keys for new users while also providing layer-based arrows and modifiers that are easier to access. A simple keymap with two layer keys gives access to the Hillside keyboard's two additional layers when held. Numbers and symbols retain familiar locations, function keys line the bottom row, and navigation and editing keys are on the home row of the nav/edit layer.
 
 ![image/hillside_keymap.png](/image/hillside_keymap.png){.align-right}
 
