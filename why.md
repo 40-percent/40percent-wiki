@@ -10,7 +10,7 @@ dateCreated: 2023-02-09T00:04:00.000Z
 
 # Why use a 40% keyboard?
 
-On a full-size keyboard, pressing less frequent keys involves moving your hands or stretching your fingers to hit small distant targets and then reorienting to the home row. That reaching is slow and can lead to hand issues; it also takes up space that might be short in a cafe, plane or classroom. A full-size keyboard is also harder to throw in a bag for tablet or phone use.
+On a full-size keyboard, pressing less frequent keys involves moving your hands or stretching your fingers to hit small distant targets and then reorienting to the home row. That reaching is slow and can lead to hand issues; a full-size keyboard also uses more desk space and is hard to throw in a bag for tablet use in a cafe, classroom or plane.
 
 A 40% keyboard uses layer-shift keys to move less frequent keys into layers under the fingers. Pressing a combination of easy-to-reach keys can be faster and easier than reaching for a distant key. Full-size keyboards already use shift keys for capital letters and most symbols; we don't have a larger keyboard with separate keys for each. 40% keyboards apply this same idea to a smaller set of base keys, often just the core letter area plus a few others. Access can be by pressing the layer and base keys together, in sequence, or other options. The user can customize which characters, strings or functions are on the base layer and how they access those on other layers.
 
