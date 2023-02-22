@@ -52,3 +52,11 @@ Finding a *perfect* keymap for your needs is an iterative process which may take
 | ![QAZ Keymap.png](/QAZ%20Keymap.png) |
 |:--:| 
 | Numbers layer is activated by holding the bottom right key. Shift is activated by holding `z` or `.` keys. `Esc`, `Backspace` and `Tab` are invoked by pressing `Q`+`W`, `O`+`P` and `A`+`S` |
+
+### Minivan
+
+   Minivan keymap (one of the most standardized 40% keyboards).
+
+| ![Minivan Keymap.png](/Minivan%20Keymap.png)
+|:--:| 
+| This is just one example of a Minivan keymap. Minivan keymaps can vary siginificantly |
