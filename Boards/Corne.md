@@ -11,7 +11,7 @@ dateCreated: 2021-01-18T04:35:40.444Z
 # Corne
 The Corne keyboard (also known as crkbd and Helidox) is a split keyboard with 3x6 column staggered keys and 3 thumb keys, based on the Helix. It uses Pro Micro-compatible boards for the MCU, TRRS interconnect cables, and optionally supports OLED screens and per-key RGB LED's. This keyboard was created by [foostan](https://twitter.com/foostan) and is open-source.
 
-![corne.jpg](/images/corne.jpg){.align-right}
+![corne.jpg](/Boards/images/corne.jpg){.align-right}
 
 ## Overview
 Many features of the Corne were initially developed in the Helix, such as symmetrical PCB's which are cheap to manufacture, mounting the Pro Micros on the top of the board in the innermost columns, support for OLED screens over the Pro Micros, and breakable rows/columns. The Corne has moderate columnar stagger, as made famous by the Ergodox. Many versions of the Corne feature a breakable outer column that can be removed to transform the board into a 10u or 3x5+3 board.
