@@ -14,7 +14,7 @@ How do you use a 40% keyboard?
 
 To an outsider, 40% keyboards may look like just novelties. Numbers and symbols like $ are commonly typed and useful in a variety of situations. Most 40% keyboards lack things like a dedicated numrow and are often smaller than just a 60% with its numrow cut off, so how do people actually use 40% keyboards?
 
-The key to the functionality of 40% keyboards and how the people that use them get work done while using them lies in some key features of the [QMK firmware](https://qmk.fm/), which is the firmware most custom keyboards support. QMK allows a variety of complex actions to be carried out on keyboards aside from only macros. The QMK functionality that enables 40% keyboards to function just as a full keyboard would are as follows:
+The key to the functionality of 40% keyboards and how the people that use them get work done while using them lies in some key features of [QMK firmware](https://qmk.fm/), which is the firmware most custom keyboards utilize. QMK allows a variety of complex actions to be carried out on keyboards aside from only macros. The QMK functionality that enables 40% keyboards to function just as a full keyboard would are as follows:
 1. Layers 
 2. Tap Dance 
 3. Combos 
@@ -46,8 +46,17 @@ A common use for a combo would be backspace on a QAZ. Using tap dance or layerin
 Finding a *perfect* keymap for your needs is an iterative process which may take a lot of time. You can find examples of 40% keymaps in \#keymaps channel of [40% Keyboards](https://discord.gg/40percent) Discord server or on the [KeymapDB](https://keymapdb.com/) website.
 
 ### QAZ
+
    QAZ keymap with 3 layers, which uses tap dance for `Shift` and layers, and combos for `Backspace`, `Tab` and `Esc`. 
 
 | ![QAZ Keymap.png](/QAZ%20Keymap.png) |
 |:--:| 
 | Numbers layer is activated by holding the bottom right key. Shift is activated by holding `z` or `.` keys. `Esc`, `Backspace` and `Tab` are invoked by pressing `Q`+`W`, `O`+`P` and `A`+`S` |
+
+### Minivan
+
+   Minivan keymap (one of the most standardized 40% keyboards). The Minivan, originally by created by a user known as Trashman, is essentially the bog-standard 60% of the 40% keyboard community; it is the keyboard a lot of 40% beginners start with.
+
+| ![Minivan Keymap.png](/Minivan%20Keymap.png)
+|:--:| 
+| This is just one example of a Minivan keymap. Minivan keymaps can vary siginificantly |
