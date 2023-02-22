@@ -55,7 +55,7 @@ Finding a *perfect* keymap for your needs is an iterative process which may take
 
 ### Minivan
 
-   Minivan keymap (one of the most standardized 40% keyboards).
+   Minivan keymap (one of the most standardized 40% keyboards). The Minivan, originally by created by a user known as Trashman, is essentially the bog-standard 60% of the 40% keyboard community; it is the keyboard a lot of 40% beginners start with.
 
 | ![Minivan Keymap.png](/Minivan%20Keymap.png)
 |:--:| 
