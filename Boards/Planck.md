@@ -12,7 +12,7 @@ dateCreated: 2021-01-18T04:49:49.282Z
 
 Planck is a unibody ortho keyboard designed by OLKB.
 
-![planck.jpg](/planck.jpg){.align-right}
+![planck.jpg](Boards/images/planck.jpg){.align-right}
 
 ### Availability
 

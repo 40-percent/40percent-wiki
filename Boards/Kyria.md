@@ -12,7 +12,7 @@ dateCreated: 2021-01-18T04:47:30.185Z
 
 Kyria is a split keyboard designed by Thomas Baart. 
 
-![kyria.png](/kyria.png){.align-right}
+![kyria.png](/Boards/images/kyria.png){.align-right}
 
 ### Availability
 
