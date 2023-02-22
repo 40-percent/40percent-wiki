@@ -12,7 +12,7 @@ dateCreated: 2021-01-18T04:52:23.120Z
 
 QAZ is a keyboard, designed by tominabox1 and whydobearsxplod. It is row staggered, and pro micro based.
 
-![qaz.jpeg](/qaz.jpeg){.align-right}
+![qaz.jpeg](/Boards/images/qaz.jpeg){.align-right}
 
 ### Availability
 

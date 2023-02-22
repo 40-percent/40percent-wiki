@@ -12,7 +12,7 @@ dateCreated: 2021-01-18T04:51:14.757Z
 
 Prime_E is a unibody split 45% layout.  
 
-![prime_e.jpg](/prime_e.jpg){.align-right}
+![prime_e.jpg](/Boards/images/prime_e.jpg){.align-right}
 
 ### Availability
 
