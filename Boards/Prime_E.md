@@ -1,9 +1,9 @@
 ---
 title: Prime_E
-description: Use this template for new keyboard pages
-published: false
+description: A unibody split 45% layout
+published: true
 date: 2021-01-18T04:51:14.757Z
-tags: 
+tags: row stagger, closed source, 13u, unibody split, integrated
 editor: markdown
 dateCreated: 2021-01-18T04:51:14.757Z
 ---

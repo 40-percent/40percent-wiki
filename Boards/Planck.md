@@ -1,9 +1,9 @@
 ---
 title: Planck
-description: Use this template for new keyboard pages
+description: A unibody ortho keyboard designed by OLKB.
 published: true
 date: 2021-01-18T04:49:49.282Z
-tags: 
+tags: ortho, closed source, 12u, integrated
 editor: markdown
 dateCreated: 2021-01-18T04:49:49.282Z
 ---

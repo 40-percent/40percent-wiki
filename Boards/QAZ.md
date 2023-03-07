@@ -1,16 +1,16 @@
 ---
 title: QAZ
-description: Use this template for new keyboard pages
+description: The OG 10.25u keyboard.
 published: true
 date: 2021-01-18T04:52:23.120Z
-tags: 
+tags: closed source, row stagger, 10.25u, integrated, pro micro
 editor: markdown
 dateCreated: 2021-01-18T04:52:23.120Z
 ---
 
 # QAZ
 
-QAZ is a keyboard, designed by tominabox1 and whydobearsxplod. It is row staggered, and pro micro based.
+QAZ is a keyboard, designed by tominabox1 and whydobearsxplod. It is row staggered, and pro micro based. An integrated version is now available as well.
 
 ![qaz.jpeg](/Boards/images/qaz.jpeg){.align-right}
 

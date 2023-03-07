@@ -1,9 +1,9 @@
 ---
 title: Le Chiffre
-description: 
+description: A 30% columnar stagger board.
 published: true
 date: 2021-01-18T23:58:57.782Z
-tags: column stagger, rgb, unibody split, group buy, 10u, intergrated, open source
+tags: column stagger, rgb, unibody split, group buy, 10u, integrated, open source
 editor: markdown
 dateCreated: 2021-01-18T22:52:02.649Z
 ---
