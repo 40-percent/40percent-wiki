@@ -31,3 +31,4 @@ There are a variety of third party case options. This list is incomplete and add
 *   [QAZKET](https://crft.bigcartel.com/product/qazket)
 *   [QAZ-Simple](https://github.com/dingusxmcgee/QAZ-Simple) (BriefQAZ is this but with a handle)
 *   [QAZ-Tilt](https://github.com/dingusxmcgee/QAZ-Tilt)
+*   [QAZ MFR](https://github.com/seirin-blu/QAZ-MFR) (A mfr2-styled QAZ case)
