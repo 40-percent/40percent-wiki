@@ -1,17 +1,17 @@
 ---
-title: Keyboard Template
+title: Orbital
 description: Use this template for new keyboard pages
 published: false
 date: 2021-01-17T23:31:18.605Z
-tags: templates
+tags: trackball
 editor: markdown
 dateCreated: 2021-01-17T23:17:49.032Z
 ---
 
 # Board Name
-Brief 1-paragraph board description. Include items like, other names of the board, who created it, high-level description of the form factor, other significant details that make the board unique.
+Orbital is a 34-36 key columnar stagger gasket-mount keyboard with a trackball and 2 rotary encoders. 
 
-![A captioned image in the heading is awesome, use the right-caret to right align like this >](/Boards/images/ReplaceWithNameOfImage)
+![A captioned image in the heading is awesome, use the right-caret to right align like this >](/Boards/images/Orbital)
 
 Please remember to add citations with footnote[^1] tags as this helps to keep the info in the wiki objective and make the sources of information clear. Prefer internal links to other wiki pages if possible, except in the [Availability](#availability) section or if providing links to specific, relevant, reputable resources (such as the maintainer's open source repo on GitHub).
 
