@@ -30,7 +30,13 @@ There was a small group buy run by Taco, which enabled a select few to get the b
 
 ### P3D Store Groupbuy[^1]
 
-P3D Store ran a group buy from December 21st 2020 until January first 2021. Alongside the P3D group buy, 3D printed PLA cases and lasercut acrylic cases were offered, and extras such aa a knob and OLED. The group buy, as of writing, is incomplete.
+P3D Store ran a group buy from December 21st 2020 until January first 2021. Alongside the P3D group buy, 3D printed PLA cases and lasercut acrylic cases were offered, and extras such aa a knob and OLED. The group buy, as of writing, is complete. 
+
+P3D Store also sold both Le Chiffre PCBs individually and together for a time but has stopped selling them as of July 31, 2023 due to most of P3D's shop closing down.
 
 ## Citations:
 [^1]: The [P3D](http://web.archive.org/web/20210118231743/https://p3dstore.com/products/le-chiffre-group-buy) listing is available via the wayback machine.
+
+### Layout and KLE
+
+A KLE of the Le Chiffre is available [here](http://www.keyboard-layout-editor.com/#/gists/e44d1c29ae57ab7efbe544ebda2f427c).
