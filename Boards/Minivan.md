@@ -12,7 +12,7 @@ dateCreated: 2023-07-08T04:54:08.899Z
 
 A MiniVan is a 4u x 12.75u rectangular board. The board (generally) keeps the traditional stagger from a larger board on its left hand side while having shorter modifiers. The right hand side also has shorter modifiers than a traditional keyboard would. It notably omits the `[{`, `}]`, and `'"` keys from the right side of the keyboard as well. As this wiki is meant to be more of an overview of each inidvidual board and 40% keyboards as a whole, not all information regarding the different types of MiniVans can reasonably be added to one article. For more information on MiniVan keyboards and their variants, visit the [Trashman Wiki](https://trashman.wiki).  
 
-![ut472.jpg](/Boards/images/ut472.jpg){.align-right}
+![aluminum_scientific.jpg](https://trashman.wiki/photos/minivan/minivan-complete_aluminum_scientific.jpg){.align-right}
 
 ### Availability
 
