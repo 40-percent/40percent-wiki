@@ -18,7 +18,7 @@ dateCreated: 2021-01-17T22:18:54.622Z
 - [Keyhive](https://keyhive.xyz/)
 - [Little Keyboards](https://www.littlekeyboards.com/)
 - [MKUltra](https://mkultra.click/)
-- [P3D Store](https://p3dstore.com/)
+- [P3D Store](https://p3dstore.com/) (Closing July 31st 2023)
 - [PrimeKB](https://www.primekb.com/)
 - [rainkeebs](https://www.rainkeebs.mx/)
 - [RGBKB](https://www.rgbkb.net/)
