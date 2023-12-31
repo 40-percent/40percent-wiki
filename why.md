@@ -17,27 +17,26 @@ People have different reasons for using 40% keyboards, yet common ones are:
 
 Small things fitting in more places is obvious and includes backpacks and small desks.
 Many also prefer mechanical keys over rubberized chiclet keys;
-  using fewer of the (bulkier) mechanical keys helps keep a board portable.
+  using fewer of the (bulkier) mechanical keys helps with portability.
 
 Tailoring for just the needs at hand is elegant. 
 If you normally type just letters, carrying around the numbers and symbols is just silly. 
 Showing individuality is also a need, and smaller boards are easier to customize than larger ones.
 Some people just like smaller keyboards with cool keycaps, cases and sound.
 
+Effective layering can make small boards more efficient 
+  than large unlayered boards, once learned.
 Layers let keys do multiple jobs based on what other keys are also pressed, 
   just like the normal shift and other modifier keys do.
 Using 'shifted' layers for more than just capital letters means more tasks can be done efficiently 
   with just the keys next to the fingers, including writing programs or novels.
 Using a large unlayered board means reaching further for things 
   that layers can put right under our hand.
-Layers aren't why small boards fit more easily in a bag,
-  but effective layering often means small boards are more efficient 
-  than unlayered large ones, once learned.
 
 
-# Why use a 40% keyboard?
+# Why use a layered 40% keyboard?
 
-Just under half of the keys on a laptop require moving the hand or stretching the fingers to hit small distant targets and then reorienting to the home row. That reaching is slow and can lead to hand issues.
+Just under half of the keys on a laptop require that the hands be moved or stretched to hit small distant targets and then reoriented back to the home row. That reaching and reorienting is slow and can lead to hand issues.
 
 Forty-percent keyboards reduce finger and hand stretching by moving less frequent keys to be under the fingers on added layers. Full-size keyboards already do this by using the shift key for capital letters and most of the symbols. We don't have huge keyboards with separate capital letter keys and far more symbol keys. Forty-percent keyboards apply the same idea to a smaller set of base keys, often just the core letter area plus side columns, and often use just four rows.
 
