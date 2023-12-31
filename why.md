@@ -67,7 +67,8 @@ Common choices include a number pad,
 Once effective layering is used, 
   similar full-size keyboards are unneeded bulk and expense.
 
-Preferred board sizes vary, but four rows by 12 to 13 keys wide (12u-13u) is common. 
+Preferred board sizes vary, but four rows and 12 to 13 keys wide (12u-13u) is common. 
+This is an easier size to start with, and many people find no reason to go smaller later on. 
 That keeps the letters and outer columns (delete, shift and return) as the base layer,
   with a bottom row of central thumb keys for space, layers and modifiers, 
   and possible side utility keys for arrows or extras. 
@@ -87,16 +88,14 @@ But for general typing, including programming, moving the keys to the fingers
 
 ## Example keymap
 
-The easier 40% boards to start with are those 12 or 13 keys wide; 
-  many people find no reason to go smaller later on. 
-This size provides familiar side columns and can provide base layer arrows and modifiers. 
-Yet it still allows more efficient layer-based alternatives that can be grown into. 
-As an example, the Hillside's default keymap has two central thumb keys 
-  that give easy access to two additional layers.
+As an example, the Hillside's default keymap has the core parts of familiar side columns, 
+  base layer arrow keys, 
+  and two central thumb keys that give easy access to two additional layers.
 On those layers, numbers and symbols have familiar locations,
   function keys line the bottom row, and navigation 
   and editing keys line the nav/edit layer's home row. 
-This keymap was designed for easier initial use.
+The keymap was designed with familiar elements for easier initial use 
+  but also with more efficient layer-based alternatives that can be grown into. 
 
 <img src="image/hillside_keymap.png" width=700>
 
