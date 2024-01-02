@@ -9,42 +9,42 @@ dateCreated: 2023-02-09T00:04:00.000Z
 ---
 
 
-People have different reasons for using 40% keyboards, yet common ones are:
+Although people have different reasons for using 40% keyboards, some common ones are:
 
-- Small boards are easy to carry and fit on small surfaces.
+- Small boards are easy to carry and they fit on small surfaces.
 - Small is cool, cute or elegant, based on taste.
-- Good layers move many keys 'close', making larger boards less useful.
+- Good layers move many keys 'close', making small more efficient than large.
 
 Small things fitting in more places is obvious and includes backpacks and small desks.
-Many also prefer mechanical keys over rubberized chiclet keys;
+Many also prefer mechanical keys over rubberized dome keys;
   using fewer of the (bulkier) mechanical keys helps with portability.
 
 Tailoring for just the needs at hand is elegant. 
-If you normally type just letters, carrying around keys for the numbers and symbols is just silly. 
-Showing individuality is also a need, and smaller boards are easier to customize than larger ones.
-Some people like smaller keyboards with cool keycaps, cases and sound.
+If you normally type mostly letters, carrying around keys for the numbers and symbols is silly. 
+Expressing individuality is also a need, and smaller boards are easier to customize than larger ones.
+Some people like smaller boards with cool keycaps, cases and sound.
 
 Effective layering can make small boards more efficient 
-  than large unlayered boards, once learned.
+  than large unlayered ones.
 Layers let keys do multiple jobs based on what other keys are also pressed, 
-  just like the normal shift and other modifier keys do.
-Using 'shifted' layers for more than just capital letters means more tasks can be done efficiently 
+  just like the normal shift key and other modifiers do.
+Using 'shifted' layers for more than just capitals means more typing can be done efficiently 
   with just the keys next to the fingers, including writing programs or novels.
 Using a large unlayered board means reaching further for things 
-  that layers can put right under our hand.
+  that layers can put right under the fingers.
 
 
 # Why use a layered 40% keyboard?
 
 Just under half of the keys on a laptop keyboard require that the hands be moved or stretched 
-  to hit small distant targets and then reoriented back to the home row. 
+  to hit small distant targets and then reoriented back to the home row, including far away yet common keys such as arrows and delete.
 That reaching and reorienting is slow and can lead to hand issues.
 
 Forty-percent keyboards reduce finger and hand stretching by moving less frequent keys 
   onto added layers right under the fingers. 
 Full-size keyboards already do this by using the shift key 
   for capital letters and most of the symbols. 
-We don't have huge keyboards with separate capital letter keys and far more symbol keys. 
+We don't use huge keyboards with separate capital letter keys and far more symbol keys. 
 Forty-percent keyboards apply the same idea to a smaller set of base keys, 
   often just the core letter area plus side columns, and often use just four rows.
 
@@ -91,7 +91,7 @@ But for general typing, including programming, moving the keys to the fingers
 
 In the end,
   small keyboards are a collection of personal choices and trade-offs
-  about our situation, typing and hands.
+  about people's situation, typing and hands.
 
 ## Example keymap
 
