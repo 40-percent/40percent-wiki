@@ -1,5 +1,5 @@
 ---
-title: Why
+title: Why use a 40%?
 description: 
 published: true
 date: 2023-02-09T00:04:00.000Z
@@ -80,7 +80,7 @@ Preferences also vary on the physical key arrangement:
   between row stagger, ortho-linear, or ergo/column stagger
   and between unibody or split case bodies.
 Some are more familiar, 
-  while others are more common in boards designed for ergonomics.
+  while others are more common in high-end ergonomic boards.
 
 Many small keyboard users are programmers. 
 We are often typing or editing and care about efficiency and hand ergonomics. 
@@ -102,16 +102,16 @@ The keymap was designed with familiar elements for easier initial use
 
 <img src="image/hillside_keymap.png" width=700>
 
-The  [KeymapDB](https://keymapdb.com/) has examples for different sizes, shapes, preferences and needs.
+The [KeymapDB](https://keymapdb.com/) has examples for different sizes, shapes, preferences and needs.
 
-## Keyboard tradeoffs
+## Keyboard trade-offs
 
-Small keyboards are a collection of choices and tradeoffs:
+Small keyboards are a collection of choices and trade-offs:
 
 - Smaller is more compact with less finger and hand travel, 
   but extremely small has more complex or longer layer activation methods. 
 - When creating a unique personalized board,
-  fewer keys means being smaller and needing fewer parts.
+  fewer keys means smaller and needing fewer parts.
 - Physical key arrangement could be row stagger, othro-linear or ergo/column stagger, 
   and the case could be unibody or split.
 - Various case, switch and keycap materials, colors and designs are possible.
