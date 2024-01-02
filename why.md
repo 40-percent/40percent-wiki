@@ -89,6 +89,10 @@ such as for games or graphical tools that have heavy function and modifier use.
 But for general typing, including programming, moving the keys to the fingers 
   instead of the fingers to the keys has advantages.
 
+In the end,
+  small keyboards are a collection of personal choices and trade-offs
+  about our situation, typing and hands.
+
 ## Example keymap
 
 As an example, the Hillside's default keymap has the core parts of familiar side columns, 
@@ -103,20 +107,3 @@ The keymap was designed with familiar elements for easier initial use
 <img src="image/hillside_keymap.png" width=700>
 
 The [KeymapDB](https://keymapdb.com/) has examples for different sizes, shapes, preferences and needs.
-
-## Keyboard trade-offs
-
-Small keyboards are a collection of choices and trade-offs:
-
-- Smaller is more compact with less finger and hand travel, 
-  but extremely small has more complex or longer layer activation methods. 
-- When creating a unique personalized board,
-  fewer keys means smaller and needing fewer parts.
-- Physical key arrangement could be row stagger, othro-linear or ergo/column stagger, 
-  and the case could be unibody or split.
-- Various case, switch and keycap materials, colors and designs are possible.
-- Layers can be activated with different methods: keys nearby, keys farther away,
-  key holds, one shot keys, chords, or timing or repeat based.
-- What goes on each layer.
-- Layout within each layer: what goes on the thumbs, 
-  the home, top and bottom rows, and the sides.
