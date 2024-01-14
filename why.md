@@ -11,7 +11,7 @@ dateCreated: 2023-02-09T00:04:00.000Z
 
 Although people have different reasons for using 40% keyboards, some common ones are:
 
-- Small boards are easy to carry and they fit on small surfaces.
+- Small boards are easy to carry and fit on small surfaces.
 - Small is cool, cute or elegant, based on taste.
 - Good layers move many keys 'close', making small more efficient than large.
 
@@ -36,17 +36,20 @@ Using a large unlayered board means reaching further for things
 
 # Why use a layered 40% keyboard?
 
-Just under half of the keys on a laptop keyboard require that the hands be moved or stretched 
-  to hit small distant targets and then reoriented back to the home row, including far away yet common keys such as arrows and delete.
+On a common laptop-sized keyboard, 
+  just under half of the keys 
+  require stretching or moving the hands 
+  followed by reorienting back to the home row, 
+  including distant yet common keys such as the arrow and delete keys.
 That reaching and reorienting is slow and can lead to hand issues.
 
-Forty-percent keyboards reduce finger and hand stretching by moving less frequent keys 
+Forty-percent keyboards reduce finger and hand stretch by moving some keys 
   onto added layers right under the fingers. 
 Full-size keyboards already do this by using the shift key 
   for capital letters and most of the symbols. 
 We don't use huge keyboards with separate capital letter keys and far more symbol keys. 
 Forty-percent keyboards apply the same idea to a smaller set of base keys, 
-  often just the core letter area plus side columns, and often use just four rows.
+  often just the letter area plus side columns, and often use just four rows.
 
 A simple 40% keymap has two new layers and two new layer-shift keys. 
 Holding one layer key provides navigation, editing, numbers and functions; 
@@ -90,7 +93,7 @@ But for general typing, including programming, moving the keys to the fingers
   instead of the fingers to the keys has advantages.
 
 In the end,
-  small keyboards are a collection of personal choices and trade-offs
+  small keyboards are a collection of choices and trade-offs
   about people's situation, typing and hands.
 
 ## Example keymap
