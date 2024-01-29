@@ -12,11 +12,12 @@ dateCreated: 2023-02-09T00:04:00.000Z
 
 While people have different reasons for using 40% keyboards, some common reasons are:
 
-- Small boards are easy to carry and fit on small surfaces.
+- Small boards are easy to carry and take less desk space.
 - Small is cool, cute or elegant, based on taste.
 - Good layers move many keys 'close', making small more efficient than large.
 
 Small things fitting in more places is obvious and includes backpacks and small desks.
+Even with a large desk, freeing up some of the central area is nice.
 Many also prefer mechanical keys over rubberized dome keys and
   using fewer of the (bulkier) mechanical keys helps with portability.
 
