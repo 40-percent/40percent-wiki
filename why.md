@@ -8,8 +8,9 @@ editor: markdown
 dateCreated: 2023-02-09T00:04:00.000Z
 ---
 
+# Why use a 40% keyboard?
 
-Although people have different reasons for using 40% keyboards, some common reasons are:
+While people have different reasons for using 40% keyboards, some common reasons are:
 
 - Small boards are easy to carry and fit on small surfaces.
 - Small is cool, cute or elegant, based on taste.
@@ -34,7 +35,7 @@ Using a large unlayered board means reaching further for keys
   that layers can put right under the fingers.
 
 
-# Why use a layered 40% keyboard?
+## Why use a layered 40% keyboard?
 
 On a common laptop-sized keyboard,
   just under half of the keys
