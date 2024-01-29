@@ -56,7 +56,7 @@ A simple 40% keymap has two new layers, reached from two new layer-shift keys.
 Holding one layer key provides navigation, editing, numbers and functions;
   holding the other provides symbols.
 
-![layer shift example](image/layers_snip.drawio.png)
+<img src="image/why_layers_demo.drawio.png" width=650>
 
 Pressing a combination of easy-to-reach keys can be faster and easier
   than reaching for a distant key.
@@ -114,5 +114,5 @@ The keymap was designed with familiar elements for easier initial use
   but also with more efficient layer-based alternatives that can be grown into.
 The [KeymapDB](https://keymapdb.com/) has additional examples for different board size, shape, preferences and needs.
 
-<img src="image/hillside_keymap.png" width=700>
+<img src="image/why_keymap_hillside.drawio.png" width=650>
 
