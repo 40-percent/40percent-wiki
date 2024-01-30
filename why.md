@@ -10,7 +10,8 @@ dateCreated: 2023-02-09T00:04:00.000Z
 
 # Why use a 40% keyboard?
 
-Some common reasons to use a 40% keyboard are:
+People have different keyboard needs, 
+  but some common reasons for using a 40% board are:
 
 - Small boards are easy to carry and need less desk space.
 - Small is cool, cute or elegant, based on taste.
