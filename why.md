@@ -10,7 +10,7 @@ dateCreated: 2023-02-09T00:04:00.000Z
 
 # Why use a 40% keyboard?
 
-While people have different reasons for using 40% keyboards, some common reasons are:
+Some common reasons to use a 40% keyboard are:
 
 - Small boards are easy to carry and need less desk space.
 - Small is cool, cute or elegant, based on taste.
@@ -30,7 +30,8 @@ Effective layering can make small boards more efficient
   than large unlayered ones.
 Layers let keys do multiple jobs based on the other keys that are also pressed,
   just like the normal shift key does.
-Using 'shifted' layers for more than just capitals means more typing can be done efficiently
+Using 'shifted' layers for more than just capital letters 
+  means many keyboard uses can be done efficiently
   with just the keys next to the fingers, including writing programs or novels.
 Using a large unlayered board means reaching further for keys
   that layers can put right under the fingers.
@@ -51,7 +52,8 @@ Full-size keyboards already do this by using the shift key
   for capital letters and most of the symbols.
 We don't use huge keyboards with separate capital letter keys and far more symbol keys.
 Forty-percent keyboards apply the same idea to a smaller set of base keys,
-  often just the letter area plus side columns, and they often have just four rows.
+  often just the letter area plus side columns, 
+  and the keyboards often have just four rows.
 
 A simple 40% keymap has two new layers, reached from two new layer-shift keys.
 Holding one layer key provides navigation, editing, numbers and functions;
@@ -78,10 +80,10 @@ This size keeps the letters and outer columns (delete, shift and return) as the 
   with a bottom row of central thumb keys for space, layers and modifiers,
   and possible side utility keys for arrows or extras.
 It means the fingers never need to move far and allows a simple layering scheme.
-Smaller ten-key wide boards further reduce finger reach and size,
+Narrower ten-key wide boards further reduce finger reach and size,
   but require more complex layering methods. 
 
-Preferences also vary on the physical key arrangement
+Preferences also vary on how the physical keys are arranged:
   between row stagger, ortho-linear, or ergo/column stagger
   and between unibody or split case bodies.
 Some are more familiar,
@@ -94,7 +96,7 @@ There are times when a function or number row is very handy,
   such as for games or
   graphical tools that have heavy function and modifier use.
 But for general typing, including programming,
-  its often better to
+  it's often better to
   move the distant keys to the fingers
   instead of
   the fingers to the distant keys.
