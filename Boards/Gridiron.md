@@ -11,7 +11,7 @@ dateCreated: 2021-01-17T23:17:49.032Z
 # Board Name
 The Gridiron is a Planck-like keyboard designed by dededecline that is meant to be a modern, high profile case (and PCB) that is compatible with Planck and similar PCBs. 
 
-![The Gridiron as it appears on its P3D product page[^1] >](/Boards/images/Gridiron)
+![The Gridiron as it appears on its P3D product page[^1] >](/boards/images/Gridiron)
 
 Please remember to add citations with footnote[^1] tags as this helps to keep the info in the wiki objective and make the sources of information clear. Prefer internal links to other wiki pages if possible, except in the [Availability](#availability) section or if providing links to specific, relevant, reputable resources (such as the maintainer's open source repo on GitHub).
 

@@ -32,12 +32,12 @@ As the Vault35 has several variants created by users other than Cain, only those
 
 ### HHKB
 
-![HaiZeus' HHKB Vault 35 with DSS Hail Satan and Asymplex bars](/boards/images/vault35_hhkb.png)
+![HaiZeus' HHKB Vault 35 with DSS Hail Satan and Asymplex bars](/boards/images/vault35_hhkb.png =50%x){.align-right}
 A KLE of the PCB can be found [here](http://www.keyboard-layout-editor.com/##@_name=Vault35%20HHKB&author=MechVault%3B&@_a:7%3B&=Q&=W&=E&=R&=T&=Y&=U&=I&=O&=P&=BACK%20SPACE%3B&@_w:1.25%3B&=A&=S&=D&=F&=G&=H&=J&=K&=L&_w:1.75%3B&=ENTER%3B&@_w:1.75%3B&=Z&=X&=C&=V&=B&=N&=M&_a:5%3B&=%0A,%0A%0A%0A%0A%0A%3C&=%0A.%0A%0A%0A%0A%0A%3E&_w:1.25%3B&=%0A%2F%2F%0A%0A%0A%0A%0A%3F%3B&@_x:1.5&c=%2338c2d0&a:7&w:1.25%3B&=&_w:1.25%3B&=&_w:3%3B&=&_w:1.25%3B&=&_w:1.25%3B&=%3B&@_x:1.5%3B&=&_w:1.25%3B&=&_w:1.75%3B&=&_w:1.75%3B&=&_w:1.25%3B&=&=%3B&@_x:1.5%3B&=&=&_w:2%3B&=&_w:2%3B&=&=&=%3B&@_x:1.5&w:1.5%3B&=&_w:2.25%3B&=&_w:2.75%3B&=&_w:1.5%3B&=%3B&@_x:1.5%3B&=&_w:3%3B&=&_w:3%3B&=&=%3B&@_x:1.5%3B&=&_w:6%3B&=&=).
 
 ### WKL
 
-![Rhymer's WKL Vault35 with DCS Paperwork](/boards/images/vault35_wkl.png)
+![Rhymer's WKL Vault35 with DCS Paperwork](/boards/images/vault35_wkl.png =50%x){.align-right}
 A KLE of the PCB can be found [here](http://www.keyboard-layout-editor.com/##@_name=Vault35%20WKL&author=MechVault%3B&@_a:7%3B&=Q&=W&=E&=R&=T&=Y&=U&=I&=O&=P&=BACK%20SPACE%3B&@_w:1.25%3B&=A&=S&=D&=F&=G&=H&=J&=K&=L&_w:1.75%3B&=ENTER%3B&@_w:1.75%3B&=Z&=X&=C&=V&=B&=N&=M&_a:5%3B&=%0A,%0A%0A%0A%0A%0A%3C&=%0A.%0A%0A%0A%0A%0A%3E&_w:1.25%3B&=%0A%2F%2F%0A%0A%0A%0A%0A%3F%3B&@_a:7&w:1.5%3B&=&_x:1&c=%2338c2d0&w:1.25%3B&=&_w:1.75%3B&=&_w:1.75%3B&=&_w:1.25%3B&=&_x:1&c=%23cccccc&w:1.5%3B&=%3B&@_x:2.5&c=%2338c2d0%3B&=&_w:2%3B&=&_w:2%3B&=&=%3B&@_x:2.5&w:3%3B&=&_w:3%3B&=%3B&@_x:2.5&w:1.5%3B&=&_w:3%3B&=&_w:1.5%3B&=%3B&@_x:2.5&w:6%3B&=).
 
 ### Case Options
