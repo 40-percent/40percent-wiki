@@ -11,7 +11,7 @@ dateCreated: 2021-01-17T23:17:49.032Z
 # Board Name
 Orbital is a 34-36 key columnar stagger gasket-mount keyboard with a trackball and 2 rotary encoders. 
 
-![A captioned image in the heading is awesome, use the right-caret to right align like this >](/Boards/images/Orbital)
+![A captioned image in the heading is awesome, use the right-caret to right align like this >](/boards/images/Orbital)
 
 Please remember to add citations with footnote[^1] tags as this helps to keep the info in the wiki objective and make the sources of information clear. Prefer internal links to other wiki pages if possible, except in the [Availability](#availability) section or if providing links to specific, relevant, reputable resources (such as the maintainer's open source repo on GitHub).
 
