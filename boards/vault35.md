@@ -59,6 +59,9 @@ One of the first non-Cain designed/produced Vault35 case-compatible PCBS was the
 
 A 40% user named Calvin produced a Topre variant of the HHKB Vault35 PCB and designated it the [Travaulta](https://github.com/calvin-mcd/travaulta-files).
 
+Calvin is also the author of [universal-vault](https://github.com/calvin-mcd/universal-vault),
+an open source drop-in PCB for HHKB Vault35 cases that tries to cover as many alpha layouts as possible while maintaining the original bottom row of the vault35.
+
 Another 40% user by the name of jlw_ took it upon himself to design and produce a series of Vault35 PCBs by the name of "Pip Bois".
 Layout options included HHKB Universal, HHKB Katana, WKL Katana, WKL Ortho soldered, WKL Ortho hotswap, and WKL Universal.
 
