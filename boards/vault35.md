@@ -20,6 +20,9 @@ A 40% user named Calvin produced a Topre variant of the HHKB Vault35 PCB and des
 
 Another 40% user by the name of jlw_ took it upon himself to design and produce a series of Vault35 PCBs by the name of "Pip Bois". Layout options included HHKB Universal, HHKB Katana, WKL Katana, WKL Ortho soldered, WKL Ortho hotswap, and WKL Universal. 
 
+jlw_ also created [vault35-katana](https://github.com/josh-l-wang/vault35-katana), an open source Katana stagger-layout drop-in PCB for HHKB Vault35 cases.
+A production run was made during the end of 2023.
+
 This section is incomplete.
 
 ### Availability
