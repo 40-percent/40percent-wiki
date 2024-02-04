@@ -27,6 +27,7 @@ dateCreated: 2021-01-17T22:18:54.622Z
 - [Worldspawn](https://www.etsy.com/shop/WorldspawnsKeebs)
 
 # EU
+- [keeb.supply](https://keeb.supply/)
 - [Keycapsss](https://keycapsss.com/)
 - [Pohjola Works](https://pohjola.works/)
 - [ProtoTypist](https://prototypist.net/)
