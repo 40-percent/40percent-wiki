@@ -33,7 +33,7 @@ The tap dance funcitonality in QMK allows a key to act differently if it has bee
 
 | ![](qaz-dss-micro.png) | 
 |:--:| 
-| [QAZ keyboard](https://40s.wiki/en/Boards/QAZ) with DSS Micro keycaps. Photo by BrokenFlows#1024 on Discord |
+| [QAZ keyboard](/en/boards/QAZ) with DSS Micro keycaps. Photo by BrokenFlows#1024 on Discord |
 
 ## Combos
 
