@@ -17,6 +17,7 @@ The hallmark of a Vault35 is its 4u x 11u layout, small bezels, large blockers, 
 Official Vault35 exists in HHKB and WKL variants.
 
 The most popular variant of the Vault35 is the [HHKB](https://hhkeyboard.us/blog/the-mystery-behind-the-ctrl-key-and-unique-hhkb-layout) layout.
+
 The first Vault35 prototype close to how it exists today, was assembled sometime around September of 2021.
 In July of 2023, Cain posted a picture of his first functional prototype of a WKL Vault35, oddly enough in an aluminum case rather than the signature translucent cases that Vault35s were nearly synonymous with.
 
