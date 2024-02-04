@@ -22,7 +22,18 @@ In July of 2023, Cain posted a picture of his first functional prototype of a WK
 
 ### Availability
 
-Vault35 kits are listed on Cain's site, https://mechvault.net/, when available. Vault35 kits or PCBs may also be found in the 40% keyboard server's buy-sell-trade forum or on mechmarket. 
+Initially sold as a group buy.
+Nowadays they are sold as in-stock items and kits are listed on Cain's site, https://mechvault.net/, when available.
+
+Vault35 kits or PCBs may also be found in the 40% keyboard server's buy-sell-trade forum or on mechmarket.
+
+#### Group Buys
+
+Several group buys ran for Vault35 in their initial HHKB layout.
+
+R1 and R2 were for the translucent acrylic cases.
+
+R3 was for an aluminum case that could be purchased either in raw fasion or cerakoted through P3D store.
 
 ### Layout
 
