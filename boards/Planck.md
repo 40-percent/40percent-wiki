@@ -16,7 +16,9 @@ Planck is a unibody ortho keyboard designed by OLKB.
 
 ### Availability
 
-Planck is a closed-source board, available at [OLKB.](https://olkb.com/collections/planck)
+Planck is a closed-source board, available at [drop.com](https://drop.com/search/planck/drops).
+
+Initial releases have been directly at [OLKB](https://olkb.com/collections/planck).
 
 ### Layout
 
