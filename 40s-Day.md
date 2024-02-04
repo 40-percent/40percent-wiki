@@ -16,4 +16,10 @@ People in the 40% percent community celebrate 40s day by both spamming pictures 
 
 40s Day is unfortunately still met with much pushback on r/MechanicalKeyboards despite having gone on for several years at this point. 
 
+## Collection albums
+
 Some times after 40s Day, an album of the keyboards posted on 40s Day will be arranged for that year's collection.
+
+- [2023 40s day on r/mk collection album](https://photos.google.com/share/AF1QipPvKHc6o9iYqX24mqtuCdtskOYtxy_N7TUBso3cyDmjua8CXyJ8lPd-km2xLzRPrA?pli=1&key=cEVybWRpVU1aUlNVLUxtN0pvNkFRU1hNelphVmxn)
+- [2023 40s day collection album](https://imgur.com/a/EY3WXzp)
+- [2021 40s day collection album](https://imgur.com/a/Dik1X9y)
