@@ -1,31 +1,122 @@
 ---
-title: Why
-description: 
+title: Why use a 40%?
+description:
 published: true
 date: 2023-02-09T00:04:00.000Z
-tags: 
+tags:
 editor: markdown
 dateCreated: 2023-02-09T00:04:00.000Z
 ---
 
 # Why use a 40% keyboard?
 
-On a full-size keyboard, pressing less frequent keys involves moving your hands or stretching your fingers to hit small distant targets and then reorienting to the home row. That reaching is slow and can lead to hand issues; a full-size keyboard also uses more desk space and is hard to throw in a bag for tablet use in a cafe, classroom or plane.
+People have different keyboard needs, 
+  but some common reasons for using a 40% board are:
 
-A 40% keyboard uses layer-shift keys to move less frequent keys into layers under the fingers. Pressing a combination of easy-to-reach keys can be faster and easier than reaching for a distant key. Full-size keyboards already use shift keys for capital letters and most symbols; we don't have a larger keyboard with separate keys for each. 40% keyboards apply this same idea to a smaller set of base keys, often just the core letter area plus a few others. Access can be by pressing the layer and base keys together, in sequence, or other options. The user can customize which characters, strings or functions are on the base layer and how they access those on other layers.
+- Small boards are easy to carry and need less desk space.
+- Small is cool, cute or elegant, based on taste.
+- Good layers move many keys 'close', making small more efficient than large.
 
-A simple 40% keymap has two extra layers and two layer-shift keys. Holding one provides navigation, editing, numbers and functions; holding the other provides symbols. Many variations are possible, including a number pad or richer navigation and editing on a dedicated layer or a leader key that outputs text snippets from short prefixes.
+Small things fitting in more places is obvious and includes backpacks and small desks.
+Even with a large desk, freeing up some of the central area is nice.
+Many also prefer mechanical keys over rubberized dome keys and
+  using fewer of the (bulkier) mechanical keys helps with portability.
 
-![layer shift example](image/layers_snip.drawio.png)
+Tailoring for just the needs at hand is elegant.
+If you normally type mostly letters, why carry around keys for the numbers and symbols?
+Expressing individuality is also a need, and smaller boards are easier to customize than larger ones.
+Some people like smaller boards with cool keycaps, cases and sound.
 
-Preferred board sizes vary, but an easy start is 12 to 13 keys wide. That covers the letter area and standard side keys for delete, shift, return, etc. A bottom row holds thumb keys for layers and modifiers and may have side utility keys for arrows or extras. A smaller board, such as ten wide, continues the tradeoff between decreased size and finger reaching vs. more complex layering. Preferences also vary on the physical key arrangement: between row stagger, ortho-linear, or ergo/column stager and between unibody or split.
+Effective layering can make small boards more efficient
+  than large unlayered ones.
+Layers let keys do multiple jobs based on the other keys that are also pressed,
+  just like the normal shift key does.
+Using 'shifted' layers for more than just capital letters 
+  means many keyboard uses can be done efficiently
+  with just the keys next to the fingers, including writing programs or novels.
+Using a large unlayered board means reaching further for keys
+  that layers can put right under the fingers.
 
-Many small keyboard users are programmers. We are often typing or editing and care about efficiency and hand ergonomics. There are keyboard uses where a function or number row is very handy, such as for graphical tool use with heavy use of function and modifier combinations or for gaming. But for general typing, including programming, moving the keys to the fingers instead of the fingers to the keys has advantages.
+
+## Why use a layered 40% keyboard?
+
+On a common laptop-sized keyboard,
+  just under half of the keys
+  require stretching or moving the hands
+  followed by reorienting back to the home row,
+  including distant yet common keys such as the arrow and delete keys.
+That reaching and reorienting is slow and can lead to hand issues.
+
+Forty-percent keyboards reduce finger and hand stretch by moving some keys
+  onto added layers right under the fingers.
+Full-size keyboards already do this by using the shift key
+  for capital letters and most of the symbols.
+We don't use huge keyboards with separate capital letter keys and far more symbol keys.
+Forty-percent keyboards apply the same idea to a smaller set of base keys,
+  often just the letter area plus side columns, 
+  and the keyboards often have just four rows.
+
+A simple 40% keymap has two new layers, reached from two new layer-shift keys.
+Holding one layer key provides navigation, editing, numbers and functions;
+  holding the other provides symbols.
+
+<img src="image/why_layers_demo.drawio.png" width=650>
+
+Pressing a combination of easy-to-reach keys can be faster and easier
+  than reaching for a distant key.
+Access can be by pressing the layer-shift and base keys together,
+  in sequence, or with other options.
+The user can customize which characters, strings or functions are
+  on the base layer and how they access those on other layers.
+Common choices include a number pad,
+  richer navigation and editing on a dedicated layer,
+  or a leader key that outputs text snippets from short prefixes.
+
+Once effective layering is used,
+  similar full-size keyboards are unneeded bulk and expense.
+
+Preferred board sizes vary, but four rows and 12 to 13 keys wide (12u-13u) is common.
+This is an easier size to start with, and many people find no reason to go smaller later.
+This size keeps the letters and outer columns (delete, shift and return) as the base layer,
+  with a bottom row of central thumb keys for space, layers and modifiers,
+  and possible side utility keys for arrows or extras.
+It means the fingers never need to move far and allows a simple layering scheme.
+Narrower ten-key wide boards further reduce finger reach and size,
+  but require more complex layering methods. 
+
+Preferences also vary on how the physical keys are arranged:
+  between row stagger, ortho-linear, or ergo/column stagger
+  and between unibody or split case bodies.
+Some are more familiar,
+  while others are more common in high-end ergonomic boards.
+
+Many small keyboard users are programmers,
+  a group that is often typing or editing
+  and cares about efficiency and hand ergonomics.
+There are times when a function or number row is very handy,
+  such as for games or
+  graphical tools that have heavy function and modifier use.
+But for general typing, including programming,
+  it's often better to
+  move the distant keys to the fingers
+  instead of
+  the fingers to the distant keys.
+
+In the end,
+  small keyboards are a collection of choices and trade-offs
+  about people's situation, typing and hands.
 
 ## Example keymap
 
-The larger 40% keyboards are often easier to initially use and can provide familiar base layer arrows and modifiers while still offering layer-based ones that are easier to access while typing. A simple keymap with two layer keys gives access to the Hillside keyboard's two additional layers when held. Numbers and symbols retain familiar locations, function keys line the bottom row, and navigation and editing keys are the home row of the nav/edit layer.
+As an example, the Hillside's default keymap has the core parts of familiar side columns,
+  base layer arrow keys,
+  and two central thumb keys that give easy access to two additional layers.
+On those layers, numbers and symbols have familiar locations,
+  function keys line the bottom row, and navigation
+  and editing keys fill the home row of the nav/edit layer.
+The keymap was designed with familiar elements for easier initial use
+  but also with more efficient layer-based alternatives that can be grown into.
+The [KeymapDB](https://keymapdb.com/) has additional examples for different board size, shape, preferences and needs.
 
-![image/hillside_keymap.png](/image/hillside_keymap.png){.align-right}
+<img src="image/why_keymap_hillside.drawio.png" width=650>
 
-Further examples for different sizes, shapes, preferences and needs are at [KeymapDB](https://keymapdb.com/).
